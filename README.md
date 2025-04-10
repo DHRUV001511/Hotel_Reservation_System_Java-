@@ -41,6 +41,7 @@ CREATE TABLE reservation (
   reservation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+---
 
 ## 📂 How to Run
 

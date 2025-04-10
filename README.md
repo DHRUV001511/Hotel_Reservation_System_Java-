@@ -62,15 +62,4 @@ git clone https://github.com/your-username/hotel-management-system.git
 
 ---
 
-## 📸 Demo
-```bash
-HOTEL MANAGEMENT SYSTEM
-
-1. Reserve a Room
-2. View Reservation
-3. Get Room Number
-4. Update Reservation
-5. Delete Reservation
-0. Exit
-```
 

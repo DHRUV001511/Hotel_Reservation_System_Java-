@@ -40,11 +40,7 @@ CREATE TABLE reservation (
   contact_number VARCHAR(15) NOT NULL,
   reservation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-```
 
-> ⚠️ Ensure the table is named `reservation` (not `reservations`) to avoid SQLSyntaxError.
-
----
 
 ## 📂 How to Run
 

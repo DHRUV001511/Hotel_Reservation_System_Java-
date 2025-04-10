@@ -23,7 +23,7 @@ A command-line based **Hotel Management System** built using **Java** and **MySQ
 | Language    | Java (JDK 8+)      |
 | Database    | MySQL              |
 | Connector   | JDBC (MySQL Driver)|
-| IDE         | IntelliJ / VS Code |
+| IDE         | IntelliJ           |
 
 ---
 

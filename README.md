@@ -40,6 +40,8 @@ CREATE TABLE reservation (
   contact_number VARCHAR(15) NOT NULL,
   reservation_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
+
 
 ---
 
@@ -71,5 +73,4 @@ HOTEL MANAGEMENT SYSTEM
 5. Delete Reservation
 0. Exit
 ```
-
 
